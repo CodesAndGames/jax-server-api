@@ -1,6 +1,6 @@
 {
-  "name": "framework-api",
-  "version": "1.1.0",
+  "name": "jax-server-api",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "node build.js",
