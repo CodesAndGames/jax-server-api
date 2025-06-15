@@ -1,0 +1,29 @@
+{
+  "name": "framework-api",
+  "version": "1.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node build.js",
+		"publish": "npm publish",
+		"minor":"npm version minor",
+		"major":"npm version major",
+		"patch":"npm version patch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesAndGames/jax-server-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CodesAndGames/jax-server-api/issues"
+  },
+  "homepage": "https://github.com/CodesAndGames/jax-server-api#readme",
+  "description": "",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1",
+    "typescript": "^5.8.3"
+  }
+}

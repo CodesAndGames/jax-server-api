@@ -1,0 +1,8 @@
+# Ignore all source files
+src/*
+# Ignore build scripts
+build.js
+# Ignore TypeScript config
+tsconfig.json
+# Ignore node_modules
+node_modules/
