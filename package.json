@@ -1,13 +1,13 @@
 {
   "name": "jax-server-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "node build.js",
-		"publish": "npm publish",
-		"minor":"npm version minor",
-		"major":"npm version major",
-		"patch":"npm version patch"
+    "publish": "npm publish",
+    "minor": "npm version minor",
+    "major": "npm version major",
+    "patch": "npm version patch"
   },
   "repository": {
     "type": "git",
